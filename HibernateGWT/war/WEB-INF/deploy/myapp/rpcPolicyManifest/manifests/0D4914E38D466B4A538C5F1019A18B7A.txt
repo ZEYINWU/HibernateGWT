@@ -1,0 +1,2 @@
+serviceClass: edu.upenn.cis.cis550.client.MyService
+path: 7C9A7925DBB9FF314AD8CF92F141B086.gwt.rpc
